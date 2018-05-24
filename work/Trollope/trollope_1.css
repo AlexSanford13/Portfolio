@@ -1,0 +1,57 @@
+body 	    {font-family: "Lucida Sans Typewriter", "Lucida Console", monaco, "Bitstream Vera Sans Mono", monospace;
+      		 margin: 5%;
+           font-size: 14pt;
+           letter-spacing: 2px;}
+
+h1  	    {font-size: 3em;
+      		 text-align: center;
+           font-weight: normal}
+
+h2        {font-size:1em;
+           text-align:center;
+           font-weight: normal}
+
+h3  	     {font-size: 1.5em;
+      		  text-align: center;
+            font-weight: normal}
+
+h4         {font-size:1.25em;
+            text-align: center;}
+
+h5         {font-size: 1.25em;
+            text-align: center;
+            font-weight: normal;}
+
+h6         {font-size: 1.15em;
+            text-align: center;
+            font-weight: normal;
+            line-height: .01;}
+
+p   	     {text-align: justify;}
+
+hr         {width: 25%;
+            align: center;}
+
+span {float: left;
+      width: 0.7em;
+      font-size: 300%;
+      font-family: algerian, courier;
+      line-height: 80%;}
+
+div.chpt_end    {border-bottom:2px solid black;}
+
+div.title_page  {border-bottom: 2px solid black;}
+
+div.title_1     {padding-bottom: 60px;}
+
+div.title_2     {padding-bottom: 180px;}
+
+div.edition     {font-style: italic;
+                 padding-top: 50px;
+                 padding-bottom: 50px;}
+
+div.author      {}
+
+
+div.authoer_of  {font-size: .5em;
+                 padding-bottom: 50px;}
